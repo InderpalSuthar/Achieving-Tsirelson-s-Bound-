@@ -12,4 +12,5 @@ This file need good knowledge of qiskit to understand the functionalities.
 
 3rd File contains the content that use convex optimization techniques - semi definite programming to optimize CHSH value , one can also use the MATLAB for this but I use python's library 'cvxpy'  
 
+shout out to - https://arxiv.org/pdf/quant-ph/0510076
 
